@@ -1,0 +1,17 @@
+# venv / Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.cache/
+
+# VS Code
+.vscode/
+
+# Playwright / Selenium artifacts
+playwright-report/
+test-results/
+screenshots/
+reports/
